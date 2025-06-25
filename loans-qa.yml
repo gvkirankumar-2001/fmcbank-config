@@ -5,7 +5,7 @@ loans:
    message: "Welcome to FMCBank loans related qa APIs"
    contactDetails:
       name: "RamQA - Product Owner"
-      email: "f8551d5db522b5f0a11f8341b9271e03912b9463ff42f64d28229e735cd908ab250d7ab4cd709bc9a3b2d2dc9e877ac8"
+      email: "{ciper}f8551d5db522b5f0a11f8341b9271e03912b9463ff42f64d28229e735cd908ab250d7ab4cd709bc9a3b2d2dc9e877ac8"
    onCallSupport:
    - (617) 432-2356
    - (936) 564-8721
