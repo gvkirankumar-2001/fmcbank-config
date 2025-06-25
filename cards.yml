@@ -1,0 +1,11 @@
+build:
+   version: "3.0"
+
+cards:
+   message: "Welcome to FMCBank cards related local APIs"
+   contactDetails:
+      name: "Ramlocal - Developer"
+      email: "f8551d5db522b5f0a11f8341b9271e03912b9463ff42f64d28229e735cd908ab250d7ab4cd709bc9a3b2d2dc9e877ac8"
+   onCallSupport:
+   - (555) 555-1234
+   - (555) 523-1345
