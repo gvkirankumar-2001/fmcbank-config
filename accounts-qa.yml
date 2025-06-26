@@ -2,7 +2,7 @@ build:
    version: "2.0"
 
 accounts:
-   message: "Welcome to FMCBank accounts related qa APIs"
+   message: "Welcome to FMCBank accounts related QA APIs"
    contactDetails:
       name: "RamQA - Product Owner"
       email: "{cipher}f8551d5db522b5f0a11f8341b9271e03912b9463ff42f64d28229e735cd908ab250d7ab4cd709bc9a3b2d2dc9e877ac8"
